@@ -40,7 +40,7 @@ projects/
   ...
 ```
 
----
+--
 
 ## About me
 
